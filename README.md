@@ -46,7 +46,7 @@ Both datasets were joined using the **ID** column.
 
 ## 📊 Dashboard Preview
 
-![Loan Analysis Dashboard](Dashboard.png)
+![Loan Analysis Dashboard](dashboard.png)
 
 ---
 
